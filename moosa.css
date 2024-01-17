@@ -1,0 +1,397 @@
+.item1{
+    color: red;
+    position: relative;
+    bottom: -40px;
+    left: 50px;
+    font-size: 20px;
+}
+.item2{
+    color: white;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.items ul{
+    display: flex;
+
+    list-style: none;
+    text-decoration: none;
+}
+
+
+.cauntainer{
+    display: flex ;
+}
+.items a{
+    position: relative;
+    right: -680px;
+    float: right;
+    display: flex;
+ padding: 6px 0px;
+ margin: 20px;
+    list-style: none;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    
+}
+.items a:hover{
+  
+    background: none;
+    color: red;
+    
+}
+.home video{
+width: 100%;
+
+filter: brightness(35%);
+}
+.home{
+position: absolute;
+top: 0px;
+z-index: -1;
+}
+.home1{
+   
+}
+.head h1{
+color: white;
+justify-content: center;
+}
+body{
+background-color: rgb(19, 10, 10);
+margin: 0;
+padding: 0;
+overflow-x: hidden;
+
+}
+.first{
+    display: flex;
+}
+.first img{
+    position: relative;
+    top: 530px;
+    right: -90px;
+display: grid;
+border-radius: 20px;
+width: 52%;
+
+
+}
+.secound{
+    position: relative;
+    top: 530px;
+    right: -200px;
+    border-radius: 20px;
+    width: 30%;
+    background-color: rgba(36, 22, 22, 0.904);
+}
+.icoune img{
+    position: relative;
+    top: 2px;
+    right: -10px;
+    width:100px;
+   background: none;
+  border: 2px solid red;
+  border-radius: 40px;
+    
+    height: 100px;
+}
+.icoune{
+    display: grid;
+    background-color: rgba(36, 22, 22, 0.904);
+    width: 30%;
+    position: relative;
+    top: 800px;
+    height: 280px;
+    right: -90px;
+    border: 1pc solid red;
+}
+.secound5{
+    display: grid;
+    background-color: rgba(36, 22, 22, 0.904);
+    width: 500px;
+    position: relative;
+    top: -13px;
+    height: 280px;
+    right: -290px;
+    border: 1pc solid red;
+}
+.icoune h1{
+    color: white;
+    position: relative;
+    top: 20px;
+    right: -22px;
+
+}
+.icoune h2{
+    font-size: 32px;
+    color: white;
+    position: relative;
+    top: -125%;
+    right: -132px;
+
+}
+.moosa img{
+    width: 40%;
+    position: relative;
+    top: 880px;
+    right: -40px;
+    border-radius: 20px;
+
+}
+
+.moosa2 img{
+    width: 45%;
+    position: relative;
+    top: 650px;
+    right: -670px;
+    border-radius: 20px;
+
+}
+
+.mooosa5{
+    position: relative;
+    top: 730px;
+    right: -100px;
+    border-radius: 20px;
+    width: 80%;
+    background-color: black;
+    height: 400px;
+}
+.mooosa5 h1{
+   position: relative;
+   top: 40px;
+   right: -32%;
+   font-size: 55px; 
+   color: white;
+}
+
+.mooosa5 h2{
+    position: relative;
+    top: 80px;
+    right: -28%;
+    font-size: 55px; 
+    color: white;
+ }
+
+
+ .mooosa5 p{
+    position: relative;
+    top: 150px;
+    right: -6%;
+    font-size: 22px; 
+    color: white;
+ }
+
+ .mooosa5 button{
+
+    border: 1px solid red;
+    position: relative;
+    top: 80px;
+    right: -60%;
+    font-size: 29px; 
+   background: transparent;
+   width: 240px;
+   height: 80px;
+   color: white;
+ }
+.mooosa5 button:hover{
+
+    flex: 0.9ms;
+color: white;
+background-color: red;
+border: 2px solid red;
+}
+
+.btn button:hover{
+
+    flex: 0.9ms;
+color: white;
+background-color: red;
+border: 2px solid red;
+}
+.loop h1{
+    color: red;
+     margin-top: 190px;
+    margin-left: -400px;
+    font-size: 38px;
+
+} 
+.loop h2{
+    margin-top: -78px;
+    margin-left: -269px;
+    font-size: 35px;
+}
+.loop1 h1{
+    margin-top: -3px;
+    margin-left: 200px;
+    font-size: 30px ;
+}
+.loop2 h1{
+    margin-top: 50px;
+    margin-left: -400px;
+    font-size: 55px ;
+}
+.loop2 h3{
+    color: gray;
+    margin-top: -53px;
+    margin-left: 550px;
+    font-size: 21px;
+ 
+}
+.loop2 h2{
+  
+    margin-top: -61px;
+    margin-left: 250px;
+    font-size: 26px;
+ 
+}
+.loop3 h3{
+     color: white;
+    margin-top: 100px;
+    margin-left: 560px;
+    font-size: 23px;
+ 
+}
+.loop3 h1{
+    color: gray;
+   margin-top: -10px;
+   margin-left: 190px;
+
+
+}
+.loop4 h1{
+    margin-top: 55px;
+    margin-left: 200px;
+    font-size: 30px ;
+}
+.loop5 h3{
+    color: gray;
+    margin-top: -53px;
+    margin-left: 550px;
+    font-size: 21px;
+ 
+}
+.loop5 h2{
+  
+    margin-top: -61px;
+    margin-left: 250px;
+    font-size: 26px;
+ 
+}
+.loop5 h3{
+     color: gray;
+    margin-top: 60px;
+    margin-left: 560px;
+    font-size: 23px;
+ 
+}
+
+.loop6 h3{
+    color: white;
+   margin-top: 100px;
+   margin-left: 560px;
+   font-size: 23px;
+
+}
+
+.loop6 h1{
+    color: gray;
+    margin-top: -53px;
+    margin-left: 179px;
+    
+ 
+}
+.make1 button{
+   background: transparent;
+   border: 0px solid transparent;
+    margin-left: -180px;
+}
+.make1 button:hover{
+    background: transparent;
+    color: red;
+    border: 0px solid transparent;
+    
+}
+.make2 button{
+    background: transparent;
+    border: 0px solid transparent;
+     margin-left: -20px;
+     margin-top: 10px;
+     position: relative;
+     top: -8px;
+     right: -620px;
+ }
+ .make2 button:hover{
+     background: transparent;
+     color: red;
+     border: 0px solid transparent;
+     
+ }
+ .make3 button{
+    background: transparent;
+    border: 0px solid transparent;
+     margin-left: -180px;
+     position: relative;
+     top: -89px;
+     right: -930px;
+ }
+ .make3 button:hover{
+     background: transparent;
+     color: red;
+     border: 0px solid transparent;
+     
+ }.make4 button{
+    background: transparent;
+    border: 0px solid transparent;
+     margin-left: -180px;
+     position: relative;
+     top: -169px;
+     right: -1110px;
+ }
+ .make4 button:hover{
+     background: transparent;
+     color: red;
+     border: 0px solid transparent;
+     
+ }
+.make4 h1{
+     color: gray;
+    margin-top: -200px;
+    margin-left: 150px;
+ }
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
